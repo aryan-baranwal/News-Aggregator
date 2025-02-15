@@ -94,7 +94,4 @@ Stay Updated With Latest News Articles From Top News Websites Across Various Fie
 ![Screenshot (199)](https://user-images.githubusercontent.com/63553348/81793134-8de34880-9526-11ea-8965-4fe93c65a103.png)
 
 
-**Profile Page of User User could Add New Profile Photo(by default one is added during registration)**
-
-![Screenshot (200)](https://user-images.githubusercontent.com/63553348/81793135-8e7bdf00-9526-11ea-8184-2ed9447d9478.png)
 
